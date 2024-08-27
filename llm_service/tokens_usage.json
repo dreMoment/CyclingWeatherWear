@@ -1,0 +1,23 @@
+{
+    "HuggingFaceH4/zephyr-7b-beta": {
+        "prompt_tokens": 2629,
+        "completion_tokens": 3157
+    },
+    "overall_cost": 0,
+    "mistralai/Mistral-7B-Instruct-v0.2": {
+        "prompt_tokens": 3228,
+        "completion_tokens": 920
+    },
+    "meta-llama/Meta-Llama-3-8B-Instruct": {
+        "prompt_tokens": 1246,
+        "completion_tokens": 144
+    },
+    "microsoft/Phi-3-mini-4k-instruct": {
+        "prompt_tokens": 793,
+        "completion_tokens": 160
+    },
+    "mistralai/Mixtral-8x7B-Instruct-v0.1": {
+        "prompt_tokens": 5792,
+        "completion_tokens": 1370
+    }
+}
